@@ -3,6 +3,7 @@ import re
 print("Our Magical Calculator")
 print("Type 'quit' to exit\n")
 
+
 previous = 0
 run = True
 
