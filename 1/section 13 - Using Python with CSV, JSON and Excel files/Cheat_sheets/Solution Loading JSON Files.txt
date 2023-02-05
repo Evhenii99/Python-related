@@ -1,0 +1,8 @@
+The code for loading the supermarkets.json file in Python with pandas would be this:
+
+import pandas
+df2 = pandas.read_json("supermarkets.json")
+The df2 dataframe should contain this data:
+
+#Блокнот не отображает картинку
+
