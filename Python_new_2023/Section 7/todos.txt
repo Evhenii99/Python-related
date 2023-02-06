@@ -1,0 +1,4 @@
+do
+show
+make
+write
